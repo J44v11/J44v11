@@ -6,11 +6,11 @@
 
 ## Core Tech
 
-- JavaScript
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Java
 - HTML
 - CSS
 - Python
 - SQL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J44v11)](https://github.com/anuraghazra/github-readme-stats)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=j44v11&layout=compact)
