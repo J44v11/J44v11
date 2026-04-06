@@ -13,4 +13,4 @@
 - Python
 - SQL
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J44v11&show_icons=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=J44v11)](https://github.com/anuraghazra/github-readme-stats)
