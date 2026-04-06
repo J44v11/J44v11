@@ -6,7 +6,7 @@
 
 ## Core Tech
 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333)
 - Java
 - HTML
 - CSS
