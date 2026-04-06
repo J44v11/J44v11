@@ -12,3 +12,5 @@
 - CSS
 - Python
 - SQL
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J44v11&show_icons=true)
