@@ -1,8 +1,8 @@
 # Javier Garcia
 ## Full-stack Developer
 
-> Esta es mi pequeña presentacion, llevo programando desde 2025 diversas aplicaciones multiplataforma
-> Pueden explorar mi portfolio de proyectto en mi perfil publico de Github.
+> This is my small presentation, I have been programming various cross-platform applications since 2025.
+> You can explore my project portfolio in my public Github profile.
 
 ## Core Tech
 
