@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=Yellow)
 ![Java](https://img.shields.io/badge/java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5&logoColor=yellow)
-![CSS3](https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-333333?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-333333?style=for-the-badge&logo=sqlite&logoColor=blue)
 
