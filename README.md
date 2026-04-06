@@ -7,10 +7,10 @@
 ## Core Tech
 
 ![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=Yellow)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/java-333333?style=for-the-badge&logo=openjdk&logoColor=brown)
+![HTML5](https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5&logoColor=yellow)
+![CSS3](https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=css3&logoColor=Blue)
+![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-333333?style=for-the-badge&logo=sqlite&logoColor=blue)
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=j44v11&layout=compact)
