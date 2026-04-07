@@ -13,6 +13,6 @@
 ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-333333?style=for-the-badge&logo=sqlite&logoColor=blue)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=j44v11&layout=compact)
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=J44v11&show_icons=true)
+<!--![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=j44v11&layout=compact)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=J44v11&show_icons=true)-->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=J44v11&theme=dark)
